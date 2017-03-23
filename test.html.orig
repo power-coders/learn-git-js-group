@@ -1,0 +1,13 @@
+<html>
+  <head>
+  </head>
+  <body>
+<<<<<<< HEAD
+    <h1>Git learning with the JS group</h1>
+    <p>Learning Git is fun!.... but it's getting boring somehow :'( </p>
+=======
+    <h1>Git learning with the JS group!</h1>
+    <p>Learning is fun!.... but it's getting boring somehow :'( </p>
+>>>>>>> added exclamation mark
+  </body>
+</html>
